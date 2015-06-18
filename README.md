@@ -1,0 +1,2 @@
+# simple_jni_for_win
+simple_jni_for_win_cmd_compile
